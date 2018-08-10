@@ -28,4 +28,4 @@ https://www.traversymedia.com/
 # Config
 
 ./config/keys.js should export:
-mongoURI: "mongodb://<un>:<pw>@<db>"
+mongoURI: "mongodb://`<un>:<pw>@<db>`"
